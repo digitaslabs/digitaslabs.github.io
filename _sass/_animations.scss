@@ -1,0 +1,233 @@
+a {
+  -webkit-animation: rainbow 10s infinite;
+  -ms-animation: rainbow 10s infinite;
+  animation: rainbow 10s infinite;
+}
+
+.overlay {
+  background: $gray;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  opacity: 1;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-name: color;
+  animation-play-state: paused;
+  -webkit-animation-timing-function: linear; -webkit-animation-iteration-count: infinite; -webkit-animation-duration: 3s; -webkit-animation-name: color; -webkit-animation-play-state: paused;
+  -ms-animation-timing-function: linear; -ms-animation-iteration-count: infinite; -ms-animation-duration: 3s; -ms-animation-name: color; -ms-animation-play-state: paused;
+}
+
+.overlay-1-container {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  animation-name: size;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 500ms;
+  animation-play-state: paused;
+  -webkit-animation-timing-function: linear; -webkit-animation-iteration-count: infinite; -webkit-animation-duration: 500ms; -webkit-animation-name: size; -webkit-animation-play-state: paused;
+  -ms-animation-timing-function: linear; -ms-animation-iteration-count: infinite; -ms-animation-duration: 500ms; -ms-animation-name: size; -ms-animation-play-state: paused;
+}
+
+.logo-overlay-1 {
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  opacity: 0;
+}
+.logo-overlay-2 {
+  width: 100%;
+  height: 100%;
+  animation-delay: 500ms;
+  -webkit-animation-delay: 500ms;
+  -ms-animation-delay: 500ms;
+}
+.header-left:hover {
+   .overlay {
+     opacity: 1;
+     animation-play-state: running;
+     -webkit-animation-play-state: running;
+     -ms-animation-play-state: running;
+   }
+   .overlay-1-container {
+     animation-play-state: running;
+     -webkit-animation-play-state: running;
+     -ms-animation-play-state: running;
+   }
+   .site-name {
+     animation-play-state: running;
+     -webkit-animation-play-state: running;
+     -ms-animation-play-state: running;
+   }
+   .logo-overlay-1 {
+     opacity: 1;
+   }
+   .logo-white {
+     opacity: 1;
+   }
+
+ }
+
+ @keyframes title-mask {
+   0% { left: 0%; right: 100%; }
+   50% { left: 0%; right: 0%; }
+   100% { left: 100%; right: 0%; }
+ }
+ @keyframes subtitle-mask {
+   0% { left: 0%; right: 0%; }
+   50% { left: 0%; right: 0%; }
+   100% { left: 100%; right: 0%; }
+ }
+
+ @keyframes size{
+   0%{ height: 0%; width: 0;}
+   100%{ height: 100%; width: 100%;}
+ }
+ @keyframes color{
+   0%{ background-color:$palette-color-1; }
+   16.6666%{ background-color:$palette-color-1;}
+   16.6667%{ background-color:$palette-color-2;}
+   33.3333%{ background-color:$palette-color-2;}
+   33.3334%{ background-color:$palette-color-3;}
+   50%{ background-color:$palette-color-3;}
+   50.0001%{ background-color:$palette-color-4;}
+ 	66.6666%{ background-color:$palette-color-4;}
+   66.6667%{ background-color:$palette-color-5;}
+   83.3333%{ background-color:$palette-color-5;}
+   83.3334%{ background-color:$palette-color-6;}
+   100%{ background-color:$palette-color-6;}
+ }
+ @keyframes text-color{
+   0%{ color:$palette-color-1; }
+   16.6666%{ color:$palette-color-1;}
+   16.6667%{ color:$palette-color-2;}
+   33.3333%{ color:$palette-color-2;}
+   33.3334%{ color:$palette-color-3;}
+   50%{ color:$palette-color-3;}
+   50.0001%{ color:$palette-color-4;}
+ 	66.6666%{ color:$palette-color-4;}
+   66.6667%{ color:$palette-color-5;}
+   83.3333%{ color:$palette-color-5;}
+   83.3334%{ color:$palette-color-6;}
+   100%{ color:$palette-color-6;}
+ }
+ @-ms-keyframes title-mask {
+   0% { left: 0%; right: 100%; }
+   50% { left: 0%; right: 0%; }
+   100% { left: 100%; right: 0%; }
+ }
+ @-ms-keyframes subtitle-mask {
+   0% { left: 0%; right: 0%; }
+   50% { left: 0%; right: 0%; }
+   100% { left: 100%; right: 0%; }
+ }
+ @-webkit-keyframes title-mask {
+   0% { left: 0%; right: 100%; }
+   50% { left: 0%; right: 0%; }
+   100% { left: 100%; right: 0%; }
+ }
+ @-webkit-keyframes subtitle-mask {
+   0% { left: 0%; right: 0%; }
+   50% { left: 0%; right: 0%; }
+   100% { left: 100%; right: 0%; }
+ }
+ @-ms-keyframes size{
+   0%{ height: 0%; width: 0;}
+   100%{ height: 100%; width: 100%;}
+ }
+ @-ms-keyframes color{
+   0%{ background-color:$palette-color-1; }
+   16.6666%{ background-color:$palette-color-1;}
+   16.6667%{ background-color:$palette-color-2;}
+   33.3333%{ background-color:$palette-color-2;}
+   33.3334%{ background-color:$palette-color-3;}
+   50%{ background-color:$palette-color-3;}
+   50.0001%{ background-color:$palette-color-4;}
+ 	66.6666%{ background-color:$palette-color-4;}
+   66.6667%{ background-color:$palette-color-5;}
+   83.3333%{ background-color:$palette-color-5;}
+   83.3334%{ background-color:$palette-color-6;}
+   100%{ background-color:$palette-color-6;}
+ }
+ @-ms-keyframes text-color{
+   0%{ color:$palette-color-1; }
+   16.6666%{ color:$palette-color-1;}
+   16.6667%{ color:$palette-color-2;}
+   33.3333%{ color:$palette-color-2;}
+   33.3334%{ color:$palette-color-3;}
+   50%{ color:$palette-color-3;}
+   50.0001%{ color:$palette-color-4;}
+ 	66.6666%{ color:$palette-color-4;}
+   66.6667%{ color:$palette-color-5;}
+   83.3333%{ color:$palette-color-5;}
+   83.3334%{ color:$palette-color-6;}
+   100%{ color:$palette-color-6;}
+ }
+ @-webkit-keyframes size {
+   0%{ height: 0%; width: 0;}
+   100%{ height: 100%; width: 100%;}
+ }
+ @-webkit-keyframes color {
+   0%{ background-color:$palette-color-1; }
+   16.6666%{ background-color:$palette-color-1;}
+   16.6667%{ background-color:$palette-color-2;}
+   33.3333%{ background-color:$palette-color-2;}
+   33.3334%{ background-color:$palette-color-3;}
+   50%{ background-color:$palette-color-3;}
+   50.0001%{ background-color:$palette-color-4;}
+ 	66.6666%{ background-color:$palette-color-4;}
+   66.6667%{ background-color:$palette-color-5;}
+   83.3333%{ background-color:$palette-color-5;}
+   83.3334%{ background-color:$palette-color-6;}
+   100%{ background-color:$palette-color-6;}
+ }
+ @-webkit-keyframes text-color{
+   0%{ color:$palette-color-1; }
+   16.6666%{ color:$palette-color-1;}
+   16.6667%{ color:$palette-color-2;}
+   33.3333%{ color:$palette-color-2;}
+   33.3334%{ color:$palette-color-3;}
+   50%{ color:$palette-color-3;}
+   50.0001%{ color:$palette-color-4;}
+ 	66.6666%{ color:$palette-color-4;}
+   66.6667%{ color:$palette-color-5;}
+   83.3333%{ color:$palette-color-5;}
+   83.3334%{ color:$palette-color-6;}
+   100%{ color:$palette-color-6;}
+ }
+ @-webkit-keyframes rainbow{
+   0%{color: $palette-color-6;}
+   20%{color: $palette-color-1;}
+ 	40%{color: $palette-color-3;}
+ 	60%{color: $palette-color-4;}
+ 	80%{color: $palette-color-5;}
+ 	100%{color: $palette-color-6;}
+ }
+ @-ms-keyframes rainbow{
+   0%{color: $palette-color-6;}
+   20%{color: $palette-color-1;}
+ 	40%{color: $palette-color-3;}
+ 	60%{color: $palette-color-4;}
+ 	80%{color: $palette-color-5;}
+ 	100%{color: $palette-color-6;}
+ }
+ @keyframes rainbow{
+   0%{color: $palette-color-6;}
+   20%{color: $palette-color-1;}
+ 	40%{color: $palette-color-3;}
+ 	60%{color: $palette-color-4;}
+ 	80%{color: $palette-color-5;}
+ 	100%{color: $palette-color-6;}
+ }

@@ -1,0 +1,27 @@
+@font-face {
+   font-family: 'Gotham';
+      src: local('Gotham Rounded'),
+      url('../assets/fonts/ttf/GothamRoundedBook.otf'),
+      url('../assets/fonts/eot/GothamRoundedBook.eot') format('embedded-opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Futura';
+      src: //local('Futura'),
+      url('../assets/fonts/ttf/Futura-Bold.ttf'),
+      url('../assets/fonts/eot/Futura-Bold.eot') format('embedded-opentype');
+   font-weight: bold;
+   font-style: normal;
+}
+
+
+@font-face {
+   font-family: 'Futura';
+      src: ///local('Futura'),
+      url('../assets/fonts/ttf/Futura-Book.otf'),
+      url('../assets/fonts/eot/Futura-Book.eot') format('embedded-opentype');
+   font-weight: lighter;
+   font-style: normal;
+}

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="posts grid">
+  <div class="grid-sizer"></div>
+  {% for post in site.posts %}
+    <div class="grid-item">
+      {% if post.type == 'project' or post.type == 'prototype' %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+          <article class="post" style="border-left-color: rgb({{post.color.r}},{{post.color.g}},{{post.color.b}});">
+            <img src="{{ post.preview }}">
+            <div class="title-text">
+              <h1 class="title" style="background-color: rgba({{post.color.r}},{{post.color.g}},{{post.color.b}},0.5);">
+                {{ post.title }}
+                <div class="title-mask text-mask" style="background-color: rgb({{post.color.r}},{{post.color.g}},{{post.color.b}})"></div>
+              </h1>
+              </br>
+              <h2 class="subtitle" style="background-color: rgba({{post.color.r}},{{post.color.g}},{{post.color.b}},0.5);">
+                {{ post.subtitle }}
+                <div class="subtitle-mask text-mask" style="background-color: rgb({{post.color.r}},{{post.color.g}},{{post.color.b}})"></div>
+              </h2>
+            </div>
+          </article>
+      </a>
+      {% endif %}
+      {% if post.type == 'punchline' %}
+      <div class="punchline-container" style="border-left-color: rgb({{post.color.r}},{{post.color.g}},{{post.color.b}});">
+        <article class="punchline">
+          <div class="punchline-text">
+            {{post.text}}
+          </div>
+        </article>
+      </div>
+      {% endif %}
+
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  var $grid = $('.grid').imagesLoaded( function() {
+    $grid.masonry({
+      itemSelector: '.grid-item',
+      percentPosition: true,
+      columnWidth: '.grid-sizer'
+    });
+  });
+</script>

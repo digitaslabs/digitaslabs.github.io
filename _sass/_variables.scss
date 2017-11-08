@@ -1,0 +1,54 @@
+
+//
+// VARIABLES
+//
+
+$header-height: 90px;
+$mobile-header-height: $header-height*0.75;
+$side-margin: 30px;
+$grid-item-padding: 30px;
+$avatar-width: 50px;
+$mobile-avatar-width: $avatar-width*0.75;
+$nav-image-width: $avatar-width*0.5;
+$mobile-nav-image-width: $mobile-avatar-width*0.5;
+
+$max-width: 1400px;
+$min-device-width: 1200px;
+
+// Random colors
+$rand-red: random(256)-1;
+$rand-green: random(256)-1;
+$rand-blue: random(256)-1;
+// Grays
+$gray: #767574;
+$lightGray: #eee;
+
+$palette-color-1: rgb(188,0,24);
+$palette-color-2: rgb(255,5,0);
+$palette-color-3: rgb(255,209,0);
+$palette-color-4: rgb(103,181,129);
+$palette-color-5: rgb(150,216,242);
+$palette-color-6: rgb(255,0,247);
+$palette-bg-color-1: rgba(188,0,24,.5);
+$palette-bg-color-2: rgba(255,5,0,.5);
+$palette-bg-color-3: rgba(255,209,0,.5);
+$palette-bg-color-4: rgba(103,181,129,.5);
+$palette-bg-color-5: rgba(150,216,242,.5);
+$palette-bg-color-6: rgba(255,0,247,.5);
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+
+@mixin largescreen {
+  @media screen and (min-width: 1400px) {
+    @content;
+  }
+}
