@@ -36,9 +36,6 @@ Thanks to an advance technology based on the association of a 3D camera and a vi
 ## DEMO
 <iframe src="https://player.vimeo.com/video/43108191" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-
-[https://vimeo.com/43108191](https://vimeo.com/43108191)
-
 ## REWARDS
 
 Cristal Festival: Category DIGITAL & MOBILE CRISTAL [EMERALD CRISTAL](http://www.europecristalfestival.com/wp-content/uploads/2012/12/winners/PL_DIGITAL%20EU.pdf)

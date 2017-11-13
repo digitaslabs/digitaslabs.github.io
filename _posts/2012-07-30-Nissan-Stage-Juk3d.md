@@ -35,9 +35,6 @@ We get access to the Flash 11 prerelease and made some R&D to get the best of th
 ## DEMO
 <iframe src="https://player.vimeo.com/video/46621344" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-
-[https://vimeo.com/46621344](https://vimeo.com/46621344)
-
 [Try it live](http://nissan-stagejuk3d.com/)
 
 ## REWARD
