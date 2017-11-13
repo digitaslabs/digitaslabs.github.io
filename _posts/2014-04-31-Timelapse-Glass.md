@@ -52,13 +52,6 @@ End of 2013, Google released the Glass Development Kit (GDK) as a sneak peek for
 ![image](/assets/articles-images/timelaps/article05.png)
 ![image](/assets/articles-images/timelaps/article06.png)
 
-## DEMO
-
-
-<iframe src="https://player.vimeo.com/video/90553046" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
-
-
-[https://vimeo.com/90553046](https://vimeo.com/90553046)
 
 ## HOW TO GET STARTED USING TIMELAPSE ?
 
@@ -70,7 +63,10 @@ Download the APK application [here](http://targz.github.io/digitaslabparis.com/t
 Start recording on Glass just by saying "OK Glass, start timelapse".
 ### 4. Watch your video
 You have two options : watch your videos right in the application, or get the videos using your regular Google Glass image manager.
-Credits :
+
+<iframe src="https://player.vimeo.com/video/90553046" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+
+## CREDITS
 
 - Head of Creative technologist : Julien Terraz
 - Creative technologist : Stéphane Allary
