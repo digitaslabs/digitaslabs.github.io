@@ -67,27 +67,27 @@ Each La Poste service was highlighted as a 360° animation displayed on the tree
 
 - Labs Director: Julien Terraz
 - Creative technologist:  Stéphane Allary
-- Creative direction: Richard Arnaud, Julien Terraz & Stéphane Allary
-- Screenplay Writing: Romain Boudruche & Jérémy Sitbon
-- Lead Animation: Javier Sacristan Rodriguez
-- Illustration: Cyril Calgaro & Patricia Grivet
-- Motion designers: Cyril Calgaro, Guillaume Lanoiselée, Lionel Darras, Valentin Tesson, Loïc Kessler
-- Software development: Franck Youdine & Maximilien Jourdain
-- Production: Matthieu Carton, Fabrice Beaugonin, Mathieu Collet, Régis Elatri, Valentine Louët
-- Account team: Remy Garnier, Stephany Niogret, Catherine Cante, Caroline Pierret
-- Project management :  Maxime Decarpentries & Cécile Sallaind
+- Creative directors : Richard Arnaud, Julien Terraz & Stéphane Allary
+- Screenplay writers: Romain Boudruche & Jérémy Sitbon
+- Lead motion designer : Javier Sacristan Rodriguez
+- Illustrators : Cyril Calgaro & Patricia Grivet
+- Motion designers : Cyril Calgaro, Guillaume Lanoiselée, Lionel Darras, Valentin Tesson, Loïc Kessler
+- Software developers : Franck Youdine & Maximilien Jourdain
+- Producers : Matthieu Carton, Fabrice Beaugonin, Mathieu Collet, Régis Elatri, Valentine Louët
+- Account directors : Remy Garnier, Stephany Niogret, Catherine Cante, Caroline Pierret
+- Project managers :  Maxime Decarpentries & Cécile Sallaind
 
 **Strategy ([Publicis Conseil](http://www.publicisconseil.fr/))**
 
 - Head of strategy : Eric Forest
-- Strategic planning : Etienne Averseng
+- Strategic planner : Etienne Averseng
 
 **Stage design ([Epatant](http://www.epatant.fr/))**
 
 - Head of design : Etienne Villotte
-- Design : Chloé Grésillon
+- Stage designer : Chloé Grésillon
 
 **Case Study (DigitasLBi)**
 
-- Writing : Nolwenn De-La-Pintière
-- Video production : Javier Sacristan Rodriguez
+- Writer : Nolwenn De-La-Pintière
+- Video producer : Javier Sacristan Rodriguez

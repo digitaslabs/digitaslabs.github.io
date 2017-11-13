@@ -66,34 +66,27 @@ The second challenge was to get an invisible and circular screen, while having a
 
 ![image](/assets/articles-images/anamorphosis/ruinart6.jpg)
 
-
 <iframe src="https://player.vimeo.com/video/220923466" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-[https://vimeo.com/220923466](https://vimeo.com/220923466)
-
-
-## RESULTS & AWARDS
-
-The first pilot was set up in Kyoto, Japan in May 2016, followed by a second pilot in Paris, France in June 2016. Finally, it was deployed in more than 10 places in more than 5 countries.
-
+## REWARDS
 
 - Grand Prix Stratégie Digital 2017 : Bronze
 - One Show 2017 : Bronze
 - Cannes Lions 2017 : Shortlist.
 - TopCom 2017 Design : Or
-- LIA 2017 Design Award Motion Graphics : Gold 
-- LIA 2017 Design Award Product Design : Finalist 
+- LIA 2017 Design Award Motion Graphics : Gold
+- LIA 2017 Design Award Product Design : Finalist
 
 
 
 ## CREDITS
-- Labs Director: Julien Terraz
+- Labs Director : Julien Terraz
 - New media designer : Stéphane Allary
-- Creative director: Laurent Nuyen, Jey Ziegelmeyer
-- Client Director : Stéphane Le Flohic
-- Project manager: Matthieu Carton
-- Artist: Ugo Gattoni
-- Animation: NOMINT
-- Furniture design: Benoit Brissart
-- Plating : Corima Technologies
-- Furniture production : GoForIt
+- Creative director : Laurent Nuyen, Jey Ziegelmeyer
+- Client director : Stéphane Le Flohic
+- Project manager : Matthieu Carton
+- Artist: [Ugo Gattoni](http://www.ugogattoni.fr/)
+- Animation : [NOMINT](www.nomint.com)
+- Furniture design : [Benoit Brissart]( http://www.benoit-brissart.com/)
+- Plating : [Corima Technologies](http://www.corima-technologies.com)
+- Furniture production : [GoForIt](http://www.atelierselbafrance.fr/fr/conseil-merchandising)
