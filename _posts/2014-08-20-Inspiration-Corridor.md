@@ -57,17 +57,20 @@ Upon leaving the corridor, iBeacons technology Bluetooth® 4.0 allows customers 
 
 <iframe src="https://player.vimeo.com/video/88783300" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-[https://vimeo.com/88783300](https://vimeo.com/88783300)
+## PRESS
 
+- Think With Google : ["L’Inspiration Corridor, une expérience shopping personnalisée"](https://www.thinkwithgoogle.com/intl/fr-fr/inspirations/success-stories/linspiration-corridor-une-experience-shopping-personnalisee/)
+- Influencia : ["Inspiration Corridor: le nouveau personnal shopper digital"](http://www.influencia.net/fr/actualites/in,audace,inspiration-corridor-nouveau-personnal-shopper-digital,4258.html)
+- Stratégies : ["Digitas LBi France pour Klépierre - Centre Commercial, « Inspiration Corridor »"](https://www.strategies.fr/creations/campagnes/231898/digitas-lbi-france-pour-klepierre-centre-commercial-inspiration-corridor-mars-2014.html)
+- [adforum](https://fr.adforum.com/creative-work/ad/player/34506612/inspiration-corridor/klepierre)
 
 ## CREDITS
 
 Special thanks to [Klépierre](http://www.klepierre.com/) and to all our partners [Carlipa](http://www.carlipa.com/), [PigData](http://www.pigdata.net/), [Quividi](http://www.quividi.com/) and [Socloz](http://www.socloz.com/).
 
-- Creative Technologist : Julien Terraz
-- Franck Youdine - Creative coder
-- Creative coder : Nicolas Petremann
-- Réalisation : Diego Verastegui
-- Motion Design: Jeremy Vissio
+- Creative technologist : Julien Terraz
+- Creative coder : Nicolas Petremann & Franck Youdine
+- Video director : Diego Verastegui
+- Motion designer: Jeremy Vissio
 - Copywriter : Nolwenn de la Pintière
 - Client Director :  Vincent Druguet
