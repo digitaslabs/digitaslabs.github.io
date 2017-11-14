@@ -86,7 +86,7 @@ The second challenge was to get an invisible and circular screen, while having a
 - Client director : Stéphane Le Flohic
 - Project manager : Matthieu Carton
 - Artist: [Ugo Gattoni](http://www.ugogattoni.fr/)
-- Animation : [NOMINT](www.nomint.com)
+- Animation : [NOMINT](http://nomint.com/)
 - Furniture design : [Benoit Brissart]( http://www.benoit-brissart.com/)
 - Plating : [Corima Technologies](http://www.corima-technologies.com)
 - Furniture production : [GoForIt](http://www.atelierselbafrance.fr/fr/conseil-merchandising)
