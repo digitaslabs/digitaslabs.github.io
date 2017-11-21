@@ -91,3 +91,8 @@ Each La Poste service was highlighted as a 360° animation displayed on the tree
 
 - Writer : Nolwenn De-La-Pintière
 - Video producer : Javier Sacristan Rodriguez
+
+**Sound production ([Prodigious](http://www.prodigious.com/))**
+- Producer : Clement Bonnet
+- Sound engineers and Sound designers : Sidney Guillen & Florentin Foucault
+- Voice-Over : François Lidove & Geoffrey Bateman
