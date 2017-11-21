@@ -10,6 +10,7 @@ color:
   g: 194
   b: 196
 description: For its presence at the Vivatech 2017 show in Paris, La Poste asked DigitasLBi Labs to present its innovative and humane offer of services through a booth experience against the flow. With the skills of Publicis Event, we have developed one of the most emblematic stands of Vivatech 2017, a unique and memorable place, as a metaphor for innovation at La Poste; a tree that draws its energy from startups that surround it and produce fruits of unparalleled quality; namely La Poste services.
+vimeo-id:243842434
 ---
 
 For its presence at the Vivatech 2017 show in Paris, La Poste asked DigitasLBi Labs to present its innovative and humane offer of services through a booth experience against the flow.
