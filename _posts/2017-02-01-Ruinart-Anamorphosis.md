@@ -77,9 +77,8 @@ The second challenge was to get an invisible and circular screen, while having a
 - LIA 2017 Design Award Motion Graphics : Gold
 - LIA 2017 Design Award Product Design : Finalist
 
-
-
 ## CREDITS
+
 - Labs Director : Julien Terraz
 - New media designer : Stéphane Allary
 - Creative director : Laurent Nuyen, Jey Ziegelmeyer
