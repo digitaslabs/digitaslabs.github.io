@@ -66,7 +66,7 @@ Upon leaving the corridor, iBeacons technology Bluetooth® 4.0 allows customers 
 
 ## REWARDS
 
-- 2014 Bronze Epica Experiential & shopper : Inspiration corridor
+- 2014 Bronze Epica Experiential & shopper : [Inspiration corridor](http://winners.epica-awards.com/2014/winner/30-01547-DM/digitaslbi-paris/inspiration-corridor)
 - Trophée ecommerce 2014 -Inspiration corridor – cross canal – argent 
 - Grand Prix Stratégies du Marketing Digital -Mention pour « Inspiration Corridor » - catégorie Services Digitaux Innovants 
 
