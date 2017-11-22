@@ -64,6 +64,12 @@ Upon leaving the corridor, iBeacons technology Bluetooth® 4.0 allows customers 
 - Stratégies : ["Digitas LBi France pour Klépierre - Centre Commercial, « Inspiration Corridor »"](https://www.strategies.fr/creations/campagnes/231898/digitas-lbi-france-pour-klepierre-centre-commercial-inspiration-corridor-mars-2014.html)
 - [adforum](https://fr.adforum.com/creative-work/ad/player/34506612/inspiration-corridor/klepierre)
 
+## REWARDS
+
+- 2014 Bronze Epica Experiential & shopper : Inspiration corridor
+- Trophée ecommerce 2014 -Inspiration corridor – cross canal – argent 
+- Grand Prix Stratégies du Marketing Digital -Mention pour « Inspiration Corridor » - catégorie Services Digitaux Innovants 
+
 ## CREDITS
 
 Special thanks to [Klépierre](http://www.klepierre.com/) and to all our partners [Carlipa](http://www.carlipa.com/), [PigData](http://www.pigdata.net/), [Quividi](http://www.quividi.com/) and [Socloz](http://www.socloz.com/).
