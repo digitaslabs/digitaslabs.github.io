@@ -10,7 +10,7 @@ color:
   g: 131
   b: 172
 description: With a pioneering spirit and an iconic heritage, Maison Ruinart has worked with DigitasLBi Labs to offer a brand new experience in art fairs and pop-up stores ; a contemporary reinterpretation of the anamorphosis showcasing an animation celebrating The Maison Ruinart, made in collaboration with the artist Ugo Gattoni.
-vimeo-id: 220923466
+vimeo-id: 337771975
 ---
 
 With a pioneering spirit and an iconic heritage, Maison Ruinart has worked with DigitasLBi Labs to offer a brand new experience in art fairs and pop-up stores: a contemporary reinterpretation of the anamorphosis showcasing an animation celebrating The Maison Ruinart, an animation made in collaboration with the artist Ugo Gattoni.
@@ -66,7 +66,7 @@ The second challenge was to get an invisible and circular screen, while having a
 
 ![image](/assets/articles-images/anamorphosis/ruinart6.jpg)
 
-<iframe src="https://player.vimeo.com/video/220923466" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://player.vimeo.com/video/{{page.vimeo-id}}" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 ## REWARDS
 

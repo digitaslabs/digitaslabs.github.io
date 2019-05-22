@@ -11,7 +11,7 @@ color:
   b: 162
 description: Nissan Stage Juk3d is the very first experiential platform using hardware accelerated 3D graphics rendering in Adobe Flash Player 11.
 premalink: /post/28338430674/nissan-stage-juk3d
-vimeo-id: 46621344
+vimeo-id: 337776473
 ---
 
 Nissan Stage Juk3d is the very first experiential platform using hardware accelerated 3D graphics rendering in Adobe Flash Player 11.
@@ -32,7 +32,7 @@ The user gets to discover the Nissan JUKE from any angle, inside and out. They c
 Summer 2010, Adobe announced the beta launch of Adobe Flash Player 11 and its new revolutionary hardware-accelerated Stage 3D capability, which allows 1000 times faster 2D and 3D graphics rendering performance over Flash Player 10.
 We get access to the Flash 11 prerelease and made some R&D to get the best of this game changer technology.
 
-<iframe src="https://player.vimeo.com/video/46621344" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://player.vimeo.com/video/{{page.vimeo-id}}" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 Was live at nissan-stagejuk3d.com
 

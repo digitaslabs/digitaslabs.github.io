@@ -11,7 +11,7 @@ color:
   b: 24
 description: AnyTouch is a prototype that can make tactile any objects. Nowadays, tactile is a notion widely associated with screens and that is usual. We wanted to make an innovative tactile experiments and immediatly thought to objects, and their great potential.
 permalink: /post/28555383766/anytouch
-vimeo-id: 43108191
+vimeo-id: 337775760
 ---
 
 AnyTouch is a prototype that can make tactile any objects.
@@ -33,7 +33,7 @@ Thanks to an advance technology based on the association of a 3D camera and a vi
 ![image](/assets/articles-images/anytouch/anytouch1.jpg)
 ![image](/assets/articles-images/anytouch/anytouch2.jpg)
 
-<iframe src="https://player.vimeo.com/video/43108191" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://player.vimeo.com/video/{{page.vimeo-id}}" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 ## REWARDS
 
