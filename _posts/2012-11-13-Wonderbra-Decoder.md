@@ -31,7 +31,7 @@ The app also synchronizes with a YouTube video in HD thanks to a ultrasonic soun
 
 <iframe width="770" height="433" src="https://www.youtube.com/embed/dLBFkC2qvl0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-<iframe src="https://player.vimeo.com/video/171294825" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://player.vimeo.com/video/{{page.vimeo-id}}" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 ## REWARDS
 

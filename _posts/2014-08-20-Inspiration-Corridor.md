@@ -55,7 +55,7 @@ Then, just like window-shopping, the user has to walk through the corridor and s
 Upon leaving the corridor, iBeacons technology Bluetooth® 4.0 allows customers to synchronise their product selection on their Klépierre mobile application. They can then geo-localise all the pre-selected products within the shopping centre.
 
 
-<iframe src="https://player.vimeo.com/video/88783300" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://player.vimeo.com/video/{{page.vimeo-id}}" width="770" height="433" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 ## PRESS
 
